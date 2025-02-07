@@ -35,15 +35,6 @@ Este proyecto es un CRUD básico diseñado para practicar el uso de tecnologías
 | usuario\_id | INT  | ID del usuario asociado            |
 | juego\_id   | INT  | ID del juego asociado              |
 
-## 🚀 Instalación y Uso
-
-1. Clonar el repositorio:
-   ```sh
-   git clone <URL_DEL_REPOSITORIO>
-   ```
-2. Configurar la base de datos y ejecutar las migraciones.
-3. Iniciar el servidor de la aplicación.
-
 ## 📌 Tecnologías Utilizadas
 
 - **Lenguaje de programación:** PHP
